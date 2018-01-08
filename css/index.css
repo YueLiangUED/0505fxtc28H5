@@ -1,0 +1,24 @@
+html,body {
+    height: 100%;
+}
+body {
+    font-family: PingFangSC-Regular, sans-serif;
+}
+.content_1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 9.88rem;
+    background: url("../images/content_01.jpg") no-repeat center top;
+    background-size: 100%;
+}
+.content_2 {
+    height: 8.12rem;
+    background: url("../images/content_02.jpg") no-repeat center top;
+    background-size: 100%;
+}
+.content_3 {
+    height: 9.44rem;
+    background: url("../images/content_03.jpg") no-repeat center top;
+    background-size: 100%;
+}
